@@ -2,7 +2,7 @@
 
 This repository houses a "game" for creating multiple pacman.
 
-## Extra info
+## Extra Info
 
 This uses code to create random speed and direction as well as bouncing off "walls".
 
