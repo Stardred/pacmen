@@ -1,4 +1,4 @@
-# pacmen
+# Pacmen
 
 This repository houses a "game" for creating multiple pacman.
 
